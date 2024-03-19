@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @TrejaVic.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning react, nextjs, radix-ui.
 - 😄 Pronouns: He/Him.
