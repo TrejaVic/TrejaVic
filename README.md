@@ -2,7 +2,7 @@
 
 ![terminal](https://github.com/TrejaVic/TrejaVic/assets/134650729/1cd0211d-a655-41f0-b3f1-8b6a41bbf2c6)
 
-I'm a 14-year-old developer from Eskişehir, Turkey, with a keen interest in software development and cybersecurity. Despite my young age, I'm trying to learn stuff!
+I'm a 14-year-old developer from Eskişehir, Turkey, with a keen interest in web development and cybersecurity. Despite my young age, I'm trying to learn stuff!
 
 ### 🚀 About Me
 
