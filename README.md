@@ -6,7 +6,7 @@ I'm a 14-year-old developer from Eskişehir, Turkey, with a keen interest in sof
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **NextJS**, **ExpressJS** and **Hono**
+- 🌱 I’m currently learning **NextJS**, **ExpressJS**, **Hono**, **Supabase**.
 - 🌐 I deploy my projects using platforms like **Vercel**
 - 🤝 I want to collaborate on [Kamp-us](https://github.com/kamp-us/) in future.
 - 🔒 I was solving CTFs on platforms like **HackTheBox** and **TryHackMe** before.
